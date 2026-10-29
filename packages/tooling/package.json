@@ -17,7 +17,7 @@
     "test": "pnpm --dir ../.. exec vitest run packages/tooling"
   },
   "dependencies": {
-    "@electron/osx-sign": "2.7.0",
+    "@electron/osx-sign": "2.7.2",
     "dotenv-flow": "4.1.0"
   },
   "devDependencies": {
